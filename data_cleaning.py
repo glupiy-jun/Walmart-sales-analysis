@@ -1,6 +1,6 @@
 import pandas as pd
 
-df = pd.read_csv(r'Walmart_Sales')
+df = pd.read_csv(r'Walmart_Sales.csv')
 
 print('DataFrame Overview:\n')
 df.info()
